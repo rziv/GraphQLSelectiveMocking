@@ -1,0 +1,6 @@
+query citizen{
+  citizen(id:2) {
+    firstName,
+    lastName
+  }
+
